@@ -1,4 +1,4 @@
-﻿Synchronizer Token Pattern
+**Synchronizer Token Pattern**
 
 This project demonstrates how to use CSRF Tokens and Session IDs to validate sessions and users using PHP.
 
@@ -12,11 +12,11 @@ Copy all the files in the directory. Paste the files in to a directory in the pa
 
 User :
 
-username **admin ** and password password to log in.
+username **admin ** and password **pass** to log in.
 
 Description :
 
 Upon successful user login, the server generates a Session ID and a CSRF Token for the session. Session ID is set as a browser cookie. When user submits the form, The server validates whether the Session ID and CSRF Token matches. When user logs out Session ID and CSRF Token are deleted from the server making them unusable.
 
 
-Blog: https://medium.com/@ttcphilips/securing-your-php-web-application-using-synchronizer-token-pattern-6f66104fbe3f
+Blog: 
