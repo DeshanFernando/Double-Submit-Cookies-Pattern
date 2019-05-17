@@ -12,7 +12,7 @@ Copy all the files in the directory. Paste the files in to a directory in the pa
 
 User :
 
-username **admin ** and password **pass** to log in.
+username **admin** and password **pass** to log in.
 
 Description :
 
